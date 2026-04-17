@@ -58,13 +58,10 @@ rand.default-features = false
 
 [patch.crates-io]
 iced.git = "https://github.com/iced-rs/iced.git"
-iced.rev = "ac1b2c7123ad82643482c0b3a4a776246c966697"
 
 iced_core.git = "https://github.com/iced-rs/iced.git"
-iced_core.rev = "ac1b2c7123ad82643482c0b3a4a776246c966697"
 
 iced_widget.git = "https://github.com/iced-rs/iced.git"
-iced_widget.rev = "ac1b2c7123ad82643482c0b3a4a776246c966697"
 
 # For testing new bleeding edge iced features
 # iced.path = "../../iced"
